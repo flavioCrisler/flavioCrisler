@@ -1,4 +1,5 @@
-<h2 align="left">Olá! Meu nome é Flávio e sou desenvolvedor Python com ênfase em Análise de Dados.</h2>
+<h2 align="left">Olá! Meu nome é Flávio e no momento estudo Python com maior ênfase em Análise de Dados.</h2>
+<h4 align="left">Sinta-se a vontade!! 😃.</h4>
 
 ###
 
