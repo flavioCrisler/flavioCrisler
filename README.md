@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Flávio, sou Analista de Dados utilizando Python para insights poderosos. 🐍🐍</h2>
+<h2 align="left">Olá! Meu nome é Flávio, sou Analista de Dados utilizando Python 🐍 para insights poderosos.</h2>
 <h4 align="left">Seja bem-vindo!! 😃.</h4>
 
 <br clear="both">
