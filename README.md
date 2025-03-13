@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Flávio e sou Analista de Dados, sempre utilizando as ferramentas mais modernas para gerar insights poderosos.</h2>
+<h2 align="left">Fala, pessoal! 👋 Sou o Flávio, Especialista em Dados e BI, com um foco cada vez maior em Ciência de Dados. Aqui, você vai encontrar alguns dos meus projetos—alguns fruto de estudos, outros inspirados em desafios reais do dia a dia.</h2>
 <h4 align="left">Seja bem-vindo!! 😃</h4>
 
 <br clear="both">
